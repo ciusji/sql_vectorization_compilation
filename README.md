@@ -1,4 +1,4 @@
-# SQL Vectorization/Compilation
+# SQL Vectorization and Compilation
 
 This repository contains a collection of experiments, conducted to carve out the differences between two types of 
 query processing engines: Vectorization (interpretation based) engines and Compilation engines.
