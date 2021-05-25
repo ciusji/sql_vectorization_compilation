@@ -104,7 +104,7 @@ endif()
 # Now simply link your own targets against gtest, gmock,
 # etc. as appropriate
 
-project(exec_engine_comparison)
+project(sql_vectorization_compilation)
 
 IF(DATADIR)
     message(STATUS "setting datadir to user defined")
